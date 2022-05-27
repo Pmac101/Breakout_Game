@@ -1,4 +1,4 @@
-A recreation of the 70's arcade game, Breakout. 
+A recreation of the 70's arcade game, Breakout. The goal is to move the paddle left or right with the keyboard arrows so the blue ball ricochets off the paddle and into the colored blocks above. If the ball touches the bottom of the screen, the game is over.
 
 
 
